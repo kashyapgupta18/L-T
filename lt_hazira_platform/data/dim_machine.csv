@@ -1,0 +1,41 @@
+machine_id,plant_id,machine_name,machine_type,install_date,rated_capacity_units_per_hour,base_energy_kwh_per_hour
+M001,P01,CNC Plate Cutting #1,CNC Plate Cutting,2024-04-07,58.9,4.29
+M002,P01,Heavy Press Forming #2,Heavy Press Forming,2016-09-27,95.3,2.94
+M003,P01,Welding Robot Cell #3,Welding Robot Cell,2019-06-18,48.5,5.81
+M004,P01,Shot Blasting Unit #4,Shot Blasting Unit,2014-07-10,26.7,5.94
+M005,P01,Sub-arc Welding Station #5,Sub-arc Welding Station,2019-10-01,62.0,4.94
+M006,P01,Rolling Mill #6,Rolling Mill,2021-03-04,43.9,7.12
+M007,P01,CNC Machining Center #7,CNC Machining Center,2020-04-18,66.1,3.47
+M008,P01,Heat Treatment Furnace #8,Heat Treatment Furnace,2022-10-01,27.5,8.72
+M009,P02,CNC Plate Cutting #1,CNC Plate Cutting,2023-06-07,57.4,4.38
+M010,P02,Heavy Press Forming #2,Heavy Press Forming,2016-11-30,100.6,3.38
+M011,P02,Welding Robot Cell #3,Welding Robot Cell,2016-11-23,44.6,5.0
+M012,P02,Shot Blasting Unit #4,Shot Blasting Unit,2023-02-09,26.9,6.22
+M013,P02,Sub-arc Welding Station #5,Sub-arc Welding Station,2015-02-09,62.7,4.63
+M014,P02,Rolling Mill #6,Rolling Mill,2017-01-22,38.4,7.16
+M015,P02,CNC Machining Center #7,CNC Machining Center,2016-07-02,57.8,3.78
+M016,P02,Heat Treatment Furnace #8,Heat Treatment Furnace,2023-03-02,23.0,8.79
+M017,P03,CNC Plate Cutting #1,CNC Plate Cutting,2014-11-29,66.0,4.16
+M018,P03,Heavy Press Forming #2,Heavy Press Forming,2020-06-10,84.9,3.41
+M019,P03,Welding Robot Cell #3,Welding Robot Cell,2020-06-18,43.5,5.27
+M020,P03,Shot Blasting Unit #4,Shot Blasting Unit,2016-05-26,31.6,5.57
+M021,P03,Sub-arc Welding Station #5,Sub-arc Welding Station,2016-02-04,46.9,5.08
+M022,P03,Rolling Mill #6,Rolling Mill,2023-01-19,42.0,7.5
+M023,P03,CNC Machining Center #7,CNC Machining Center,2022-03-15,64.2,3.85
+M024,P03,Heat Treatment Furnace #8,Heat Treatment Furnace,2016-08-31,22.3,7.84
+M025,P04,CNC Plate Cutting #1,CNC Plate Cutting,2020-05-31,59.5,4.05
+M026,P04,Heavy Press Forming #2,Heavy Press Forming,2017-11-25,97.2,3.29
+M027,P04,Welding Robot Cell #3,Welding Robot Cell,2019-01-13,45.8,5.28
+M028,P04,Shot Blasting Unit #4,Shot Blasting Unit,2019-03-01,25.8,5.92
+M029,P04,Sub-arc Welding Station #5,Sub-arc Welding Station,2014-06-12,53.5,5.14
+M030,P04,Rolling Mill #6,Rolling Mill,2022-11-21,36.8,6.56
+M031,P04,CNC Machining Center #7,CNC Machining Center,2015-11-04,61.0,3.92
+M032,P04,Heat Treatment Furnace #8,Heat Treatment Furnace,2022-02-26,25.4,8.98
+M033,P05,CNC Plate Cutting #1,CNC Plate Cutting,2014-04-19,58.3,4.25
+M034,P05,Heavy Press Forming #2,Heavy Press Forming,2017-12-11,81.0,2.89
+M035,P05,Welding Robot Cell #3,Welding Robot Cell,2024-01-30,48.0,5.46
+M036,P05,Shot Blasting Unit #4,Shot Blasting Unit,2024-04-04,27.0,6.0
+M037,P05,Sub-arc Welding Station #5,Sub-arc Welding Station,2014-12-08,58.2,4.75
+M038,P05,Rolling Mill #6,Rolling Mill,2023-07-29,38.6,6.91
+M039,P05,CNC Machining Center #7,CNC Machining Center,2017-09-24,62.3,3.49
+M040,P05,Heat Treatment Furnace #8,Heat Treatment Furnace,2018-04-27,22.1,9.29

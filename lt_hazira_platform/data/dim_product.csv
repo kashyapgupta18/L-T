@@ -1,0 +1,6 @@
+product_id,product_name,category,uom
+PR03,Heat Exchanger Bundle,Process Equipment,Units
+PR02,Structural Steel Module,Heavy Fabrication,Units
+PR05,Piping Spool,Modular Fabrication,Units
+PR01,Pressure Vessel Shell,Process Equipment,Units
+PR04,Reactor Component,Precision Machining,Units
