@@ -1,0 +1,17 @@
+*.pdf
+*.pyc
+__pycache__/
+*.pkl
+*.faiss
+lt_manufacturing_assistant/
+.env
+venv/
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+.DS_Store
+Thumbs.db
