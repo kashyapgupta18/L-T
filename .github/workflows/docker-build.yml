@@ -1,0 +1,15 @@
+name: Docker Container Build
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  docker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build Dashboard Image
+        run: docker build -t hazira-dashboard:latest -f Dockerfile .
+      - name: Build API Image
+        run: docker build -t hazira-api:latest -f Dockerfile.api .
