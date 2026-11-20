@@ -1,5 +1,13 @@
 # L&T Hazira Smart Manufacturing Analytics Platform
 
+[![CI Test Suite](https://github.com/kashyapgupta18/l-t/actions/workflows/test.yml/badge.svg)](https://github.com/kashyapgupta18/l-t/actions)
+[![Code Quality](https://github.com/kashyapgupta18/l-t/actions/workflows/lint.yml/badge.svg)](https://github.com/kashyapgupta18/l-t/actions)
+[![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg)](https://fastapi.tiangolo.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B.svg)](https://streamlit.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 An end-to-end analytics project: synthetic manufacturing data → SQL warehouse
 → Python ETL → interactive dashboard → machine-learning failure model.
 
