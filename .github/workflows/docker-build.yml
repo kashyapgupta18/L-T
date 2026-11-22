@@ -8,7 +8,7 @@ jobs:
   docker:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Build Dashboard Image
         run: docker build -t hazira-dashboard:latest -f Dockerfile .
       - name: Build API Image
